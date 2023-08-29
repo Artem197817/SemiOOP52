@@ -4,11 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5afa55a7-7734-419e-b618-b0ec0406638b" name="Changes" comment="" />
+    <list default="true" id="5afa55a7-7734-419e-b618-b0ec0406638b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/semiTest/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/semiTest/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/semiTest/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/semiTest/Mops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWorkTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -22,9 +54,92 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "/home/artem/IdeaProjects/SemiOOP52/src/main/java/semiTest"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.HomeWorkTest">
+    <configuration name="HomeWorkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SemiOOP52" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="semiTest" />
+      <option name="MAIN_CLASS_NAME" value="semiTest.HomeWorkTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest.copyTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SemiOOP52" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="semiTest" />
+      <option name="MAIN_CLASS_NAME" value="semiTest.HomeWorkTest" />
+      <option name="METHOD_NAME" value="copyTest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest.copyTest3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SemiOOP52" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="semiTest" />
+      <option name="MAIN_CLASS_NAME" value="semiTest.HomeWorkTest" />
+      <option name="METHOD_NAME" value="copyTest3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest.copyTest4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SemiOOP52" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="semiTest" />
+      <option name="MAIN_CLASS_NAME" value="semiTest.HomeWorkTest" />
+      <option name="METHOD_NAME" value="copyTest4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomeWorkTest" />
+        <item itemvalue="TestNG.HomeWorkTest.copyTest4" />
+        <item itemvalue="TestNG.HomeWorkTest.copyTest3" />
+        <item itemvalue="TestNG.HomeWorkTest.copyTest2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

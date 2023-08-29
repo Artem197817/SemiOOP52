@@ -1,2 +1,5 @@
-package semiTest;public class Animal {
+package semiTest;
+
+public abstract class Animal {
+
 }

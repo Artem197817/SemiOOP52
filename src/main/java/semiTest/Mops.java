@@ -1,2 +1,4 @@
-package semiTest;public class Mops {
+package semiTest;
+
+public class Mops extends Dog{
 }
